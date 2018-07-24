@@ -1,3 +1,5 @@
 Github
 
-Este é um repositório teste
+Este é um repositório teste. 
+
+Autor :: Alessandro Moraes
